@@ -1,6 +1,9 @@
 README
 Jacinta Kong
 
+# Data
+This folder contains the raw data for part 1 and part 2 of the experiment, detailed below.
+
 # Part 1
 This experiment aimed to characterise the effects of rearing temperature on the life history of *Gryllodes sigillatus*, the banded cricket. This experiment is Part 1 of the paper.
 `tpc_mass.xslx` is the raw data associated with part 1. The metadata is described within the HTML of part 1.
@@ -42,3 +45,5 @@ Columns are data collection dates
 * no_hatchlings: Number of nymphs counted after 2 days of hatching (peat frozen and dried in oven)
 * notes: Other observations
 
+# supplementary incubator data
+This folder contains the raw temperature and humidity data for the incubators used in this study.
