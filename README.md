@@ -17,11 +17,10 @@ This folder contains the raw data and code for both experiments. The metadata ar
 ## Part 1
 This experiment aimed to characterise the effects of rearing temperature on the life history of *Gryllodes sigillatus*, the banded cricket.
 
-Three datasets (csv) are associated with part 1:
+Two datasets (csv) are associated with part 1:
 
 1. TPC_mass - Weekly observations of mass, sex and instar
 2. TPC_survival - Survival and maturation data
-3. TPC_incubators - Metadata for assigning incubators to temperature treatments
 
 ## Part 2
 This experiment aimed to characterise the effects of rearing temperature on the reproductive output of *Gryllodes sigillatus*, the banded cricket under common garden conditions. This experiment follows up from Part 1 and uses a subset of temperature treatments from Part 1.
