@@ -1,5 +1,5 @@
 # README
-Jacinta Kong
+Jacinta Kong  
 17 Jan 2024
 
 This repository is for "Temperature-dependence of life history in an edible cricket: Implications for optimising mass rearing" by Jacinta D. Kong, Émile Vadboncoeur, Susan M. Bertram, and Heath A. MacMillan.
